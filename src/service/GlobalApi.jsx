@@ -6,7 +6,7 @@
 //             "https://places.googleapis.com/v1/places:searchText",
 //             {
 //                 headers: {
-//                     Authorization: `Bearer AIzaSyDGFfRh_eDrV2ZkmW7IYOi1Qa3QjcD2pKk`,
+//                     Authorization: `Bearer YOUR API KEY`,
 //                     // Include other headers if necessary
 //                     "X-Goog-FieldMask": ["places.photos", "places.displayName", "places.id"],
 //                     "Content-Type": "application/json",
