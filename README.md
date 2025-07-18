@@ -40,9 +40,6 @@ AI-TRIP-PLANNER/
 ├── utils.py # Utility or AI logic
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
 
 ---
 
