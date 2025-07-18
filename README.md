@@ -52,34 +52,7 @@ Edit
 2. The backend processes this data using AI logic.
 3. A detailed itinerary is generated and shown to the user.
 
----
 
-## 📸 Screenshots
-
-_Add screenshots here if available (e.g. Homepage, itinerary results)._
-
----
-
-## 🔧 How to Run Locally
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/bhavynaso9016/AI-TRIP-PLANNER.git
-
-# 2. Navigate into the project
-cd AI-TRIP-PLANNER
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Run the Flask app
-python app.py
-Then open http://localhost:5000 in your browser.
-
-📈 Future Improvements
-Add maps integration (Google Maps API)
-
-Support for budget estimation
 
 User authentication and saved itineraries
 
